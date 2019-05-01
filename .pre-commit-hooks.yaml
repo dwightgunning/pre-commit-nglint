@@ -1,0 +1,9 @@
+-   id: nglint
+    name: nglint
+    entry: npm run ng lint
+    language: node
+    args: []
+    pass_filenames: false
+
+    # Use additional_dependencies to install the actual node package
+    minimum_pre_commit_version: 0.14.0
