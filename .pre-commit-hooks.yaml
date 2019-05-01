@@ -1,6 +1,6 @@
 -   id: nglint
     name: nglint
-    entry: npm run ng lint
+    entry: npm run ng lint --silent
     language: node
     args: []
     pass_filenames: false
