@@ -1,5 +1,5 @@
 {
-    "name": "pre-commit-nglint",
-    "description": "This is the Angular-CLI lint (ng lint) hook for pre-commit. This prevents git commits unless the checks pass.",
+    "name": "pre-commit-ngtest",
+    "description": "This is the Angular-CLI test (ng test) hook for pre-commit. This prevents git commits unless the checks pass.",
     "version": "0.1.0"
 }
